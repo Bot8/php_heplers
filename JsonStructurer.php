@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class JsonTester
+ * Class JsonStructurer
  */
-class JsonTester
+class JsonStructurer
 {
     /** @var array  */
     protected $structure = [];
